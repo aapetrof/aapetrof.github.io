@@ -73,7 +73,7 @@ html, body {
     margin: 100px auto;
  	background: rgba(0, 150, 178, .75); /*this uses opacity of 75% for the background color*/
 	text-align: center;
-	border: 4px dashed white;
+
 }
 
    
@@ -102,7 +102,7 @@ h2 {
 
 p {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */		
-	font-family: Copperplate,copperplate gothic light, fantasy;
+	font-family: 'Courier New', Courier, monospace;
 	font-size: 1.2em;
     line-height: 1.6;
     color: #fff;
