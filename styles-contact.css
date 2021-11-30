@@ -68,7 +68,7 @@ html, body {
 }
 
 .center {
-    width: 1000px;
+    width: 1500px;
 	padding: 2%;
     margin: 100px auto;
  	background: rgba(159, 163, 244, 0.40); /*this uses opacity of 75% for the background color*/
@@ -79,7 +79,7 @@ html, body {
    
 #logo {
     margin-bottom: 0px;
-	text-align: center;
+	text-align: start;
 }
 
 
