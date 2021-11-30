@@ -68,18 +68,18 @@ html, body {
 }
 
 .center {
-    width: 800px;
+    width: 1000px;
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(159, 163, 244, 0.5); /*this uses opacity of 75% for the background color*/
+ 	background: rgba(159, 163, 244, 0.40); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 
 }
 
    
 #logo {
-    margin-bottom: 16px;
-	text-align: left;
+    margin-bottom: 0px;
+	text-align: center;
 }
 
 
@@ -96,7 +96,7 @@ h1 {
 
 h2 {
 	 /* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */
-	font-family: sans-serif;
+	font-family:'Courier New', Courier, monospace ;
 	 font-size: 1.5em;
     line-height: 1.4;
     color: #fff;
@@ -113,7 +113,7 @@ p {
 }
     
 nav {
-font-family: Georgia, 'Times New Roman', Times, serif;
+font-family: 'Courier New', Courier, monospace;
 font-size: 1.2em;
 width: 400px;
 margin: 0px;
