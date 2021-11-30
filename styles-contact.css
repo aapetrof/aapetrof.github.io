@@ -89,7 +89,7 @@ html, body {
 h1 {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */
 	font-family: 'Courier New', Courier, monospace;
-	font-size: 2em;
+	font-size: 4em;
     margin: 0px auto 10px auto;
     color: #fff;
 }
