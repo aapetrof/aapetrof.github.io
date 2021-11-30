@@ -83,6 +83,10 @@ html, body {
 	text-align: center;
 }
 
+
+
+}
+
 h1 {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -93,7 +97,8 @@ h1 {
 
 h2 {
 	 /* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */
-	font-size: 1.5em;
+	font-family: sans-serif;
+	 font-size: 1.5em;
     line-height: 1.4;
     color: #fff;
     padding: 0px 0px;
@@ -113,7 +118,6 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 1.2em;
 width: 400px;
 margin: 0px;
-border: dashed rgb(240, 22, 22);
 border-width: 3px 0;
 text-align: center;
 margin-top: 2em;
@@ -133,14 +137,16 @@ nav a{
 
 a {
 
-	color:rgb(238, 148, 13);
+	color:rgb(8, 8, 8);
 	text-decoration: none;
 	font-weight: bold;
+	text-align: center;
 	
 }
 
 a:hover{
 
 	color:black;
-	background:rgb(249, 8, 48);
+	background:rgb(255, 255, 252);
 }
+
