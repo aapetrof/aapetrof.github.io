@@ -71,7 +71,7 @@ html, body {
     width: 800px;
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(0, 150, 178, .75); /*this uses opacity of 75% for the background color*/
+ 	background: rgba(159, 163, 244, 0.5); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 
 }
@@ -79,13 +79,12 @@ html, body {
    
 #logo {
     margin-bottom: 16px;
-	border: 3px dashed red;
-	text-align: center;
+	text-align: left;
 }
 
 
 
-}
+
 
 h1 {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */
@@ -107,7 +106,7 @@ h2 {
 
 p {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */		
-	font-family: fantasy;
+	font-family: 'Courier New', Courier, monospace;
 	font-size: 1.2em;
     line-height: 1.6;
     color: #fff;
