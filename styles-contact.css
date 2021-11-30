@@ -72,14 +72,14 @@ html, body {
 	padding: 2%;
     margin: 100px auto;
  	background: rgba(159, 163, 244, 0.40); /*this uses opacity of 75% for the background color*/
-	text-align: left;
+	text-align: center;
 
 }
 
    
 #logo {
     margin-bottom: 0px;
-	text-align: start;
+	text-align: center;
 }
 
 
